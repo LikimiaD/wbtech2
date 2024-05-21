@@ -1,0 +1,4 @@
+John,Doe,30,Male,Engineer
+Jane,Smith,25,Female,Designer
+Emily,Davis,22,Female,Student
+Michael,Brown,35,Male,Manager
